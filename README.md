@@ -15,6 +15,19 @@ There are two parts:
 **before Lab 02** (see the deadline note in each lab). Ask the lab instructor whenever you
 get stuck - that's what they're here for.
 
+## Before you start - install your tools
+
+You need **Git** on your computer, and (recommended) the **GitHub CLI**, `gh`, which makes
+signing in painless. If they aren't installed yet, follow **`install-tools.md`** in this
+repo - it has step-by-step instructions and download links for **Windows, macOS, and
+Linux**. Quick links:
+
+- Git: <https://git-scm.com/downloads>
+- GitHub CLI (`gh`): <https://cli.github.com/>
+
+Check they're installed with `git --version` and `gh --version`. Your lab instructor can
+help if the install gives you trouble.
+
 ## A note on cheat sheets
 
 `git-cheatsheet.md` (in this repo) lists every command used below. Keep it open. If a
