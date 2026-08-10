@@ -14,6 +14,7 @@ inside your cloned repository folder.
 | `git push` | Upload your commits to GitHub |
 | `git pull` | Download and merge the latest commits from GitHub |
 | `git log --oneline` | See the history of commits |
+| `git rev-parse HEAD` | Print the full hash of your latest commit (this is what you submit) |
 
 ## Branches and pull requests
 
@@ -25,6 +26,18 @@ inside your cloned repository folder.
 
 To open a **pull request (PR)**, push your branch and then use the **GitHub website**:
 open the repo, click *Compare & pull request*, review the changes, and *Merge*.
+
+## Handing in a lab
+
+Every lab is submitted through its **Canvas quiz**, by giving two things:
+
+| Command | What it does |
+|---------|--------------|
+| `git status` | Check it's all committed and pushed *before* you read the hash |
+| `git rev-parse HEAD` | Print the commit hash to paste into the quiz |
+
+Get onto `main` and up to date first (`git switch main`, then `git pull`), so the hash you
+submit includes everything - including anything you merged through a pull request.
 
 ## Writing a good commit message
 
