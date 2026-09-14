@@ -74,17 +74,14 @@ Correct:   jsmith2026
 Not this:  https://github.com/jsmith2026
 ```
 
-Do this now, before you go any further. Your instructor uses these answers to add you to
-the **CSCI1030U** organization on GitHub, which is where your labs will live from Lab 02
-onward. If your username is missing or misspelled, that invitation can't reach you.
+If your username is missing or misspelled, the lab instructor may be unable to identify your work.
 
 You can keep working on the rest of the quiz as you go - just don't submit it until the
 very end, when you have your repository URL and commit hash from Step 8.
 
 ### Step 3 - Create your lab repository from the template
 
-Lab repositories are **templates**. Instead of accepting an invitation, you make your own
-copy of the template with one click.
+Lab repositories are **templates**. Make your own copy of the template:
 
 1. Open the **Lab 01 template** link in the Canvas assignment. It will take you to a repo
    named something like `CSCI1030U/lab01-template`.
