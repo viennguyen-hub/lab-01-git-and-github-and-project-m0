@@ -236,31 +236,18 @@ you plan to keep tidying up the repo afterwards.
 This part is done with your team, and finished **before Lab 02**. It is the project's
 Milestone 0 - see `project/overview.md` for the full project plan.
 
-### Step 1 - Accept your organization invitation
+### Step 1 - Form your team
 
-After the Lab 01 quiz closes, your instructor will invite every student who submitted a
-username to the **CSCI1030U** organization on GitHub. Watch for the invitation email (or
-check <https://github.com/CSCI1030U>) and **accept it**. Your team's shared repository, and
-every lab from Lab 02 onward, lives inside that organization.
+Get into a team of **4-5 students**. Everyone needs a GitHub account.
 
-If the invitation hasn't arrived a day or two after the quiz closes, tell your instructor -
-usually it means the username in your quiz answer had a typo.
-
-### Step 2 - Form your team
-
-Get into a team of **4-5 students**. Everyone needs a GitHub account and needs to have
-accepted the organization invitation.
-
-### Step 3 - Brainstorm and choose a topic
+### Step 2 - Brainstorm and choose a topic
 
 Your project will be a **networked, multi-user application** (by default, a turn-based
 multiplayer game). Skim the **Suggested projects** list in `project/overview.md`, then
 agree on what you'll build. Aim for something small that you can grow all term - you'll
 add networking, files, an interface, and an AI/algorithm to it as the course goes on.
 
-### Step 4 - Create your shared repository
-
-Once everyone has accepted the organization invitation:
+### Step 3 - Create your shared repository
 
 - **One** team member opens the **group-project template** link on Canvas (this is a
   *different* link from the Lab 01 one), clicks **Use this template**, and sets:
@@ -273,14 +260,14 @@ Once everyone has accepted the organization invitation:
 
 Everyone then clones the shared repo, just like in Part 1.
 
-### Step 5 - Add your proposal
+### Step 4 - Add your proposal
 
 Copy `PROPOSAL_TEMPLATE.md` into your **group** repo as **`PROPOSAL.md`**, fill it in
 together (team, the application, one feature per member, tech plan), and commit and push
 it. Practise the workflow: at least a couple of members should make a commit so everyone
-is set up and authenticated.
+is set up and authenticated.  Your topic can change, but this is to get you started.
 
-### Step 6 - Agree on how you'll work
+### Step 5 - Agree on how you'll work
 
 You just practised the full workflow - branch, pull request, review, merge - and you'll
 grow into it over the term. As a team, agree on how you'll start:
